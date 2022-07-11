@@ -1,0 +1,32 @@
+h1 {
+    color: yellow;
+    background: black;
+    text-align: center;
+}
+
+h3 {
+    color: aqua;
+    background: green;
+    text-align: right;
+}
+
+p {
+    color: brown;
+    background: yellow;
+    text-align: center;
+}
+
+.paragraph-1 {
+    color: white;
+    background-color: purple;
+}
+
+.paragraph-2 {
+    color: white;
+    background-color: blue;
+}
+
+.paragraph-3 {
+    color: white;
+    background-color: blueviolet;
+}
