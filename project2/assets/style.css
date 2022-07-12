@@ -2,35 +2,35 @@ h1 {
     font-size: 60px;
     color: yellow;
     background: black;
-    text-align: center;
+    text-align: left;
 }
 
 h3 {
     color: aqua;
     background: green;
-    text-align: right;
+    text-align: left;
 }
-
+/* 
 p {
     color: brown;
     background: yellow;
     text-align: center;
-}
-
+} */
+/* 
 .paragraph-1 {
     color: white;
     background-color: purple;
-}
+} */
 
-.paragraph-2 {
+/* .paragraph-2 {
     color: white;
     background-color: blue;
-}
-
+} */
+/* 
 .paragraph-3 {
     color: white;
     background-color: blueviolet;
-}
+} */
 
 .link {
     color: yellow;
@@ -40,4 +40,12 @@ p {
 .link2 {
     color: purple;
     background: yellow;
+}
+
+.first {
+    background-color: red;
+}
+
+.second {
+    color: yellow;
 }
