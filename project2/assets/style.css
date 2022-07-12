@@ -30,3 +30,13 @@ p {
     color: white;
     background-color: blueviolet;
 }
+
+.link {
+    color: yellow;
+    background: purple;
+}
+
+.link2 {
+    color: purple;
+    background: yellow;
+}
